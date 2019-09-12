@@ -2,7 +2,7 @@
 """
 Created on Fri Aug 30 10:09:30 2019
 
-@author: Carlos Escobar
+@author: Carlos Escobar & Michael Arias
 """
 
 
